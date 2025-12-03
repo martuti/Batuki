@@ -19,7 +19,7 @@ This project was developed using Apple’s ecosystem tools:
 
 For more information, please check:  
 
-* [**Terms of Service **](./Terms.md)
+* [Terms of Service](./Terms.md)
 * [**Privacy Policy**](./Privacy.md)
   
 --- 
@@ -32,5 +32,5 @@ This app was designed and developed by:
 * Táina Almeida - [github.com/tai-almeida](https://github.com/tai-almeida)
 * Rodrigo Cont - [github.com/Cjsrodrigo](https://github.com/Cjsrodrigo)
 * Camille Luppi - [github.com/camilleluppi](https://github.com/camilleluppi)
-* Julia Caramori -
+* Julia Caramori - 
 
