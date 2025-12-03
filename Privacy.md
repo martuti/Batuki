@@ -6,20 +6,20 @@ Esta Política explica como o Batuki coleta, utiliza e protege seus dados pessoa
 
 ### 1️⃣ Quais dados coletamos
 
-# 1.1. Dados fornecidos por você
+#### 1.1. Dados fornecidos por você
 
 • Nome ou apelido
 • Apple ID, via ICloud
 • Foto de perfil (opcional)
 • Reviews e notas
 
-# 1.2. Dados coletados automaticamente
+#### 1.2. Dados coletados automaticamente
 
 • Sistema operacional
 • Versão do app
 • Dados técnicos para funcionamento e segurança
 
-# 1.3. Dados que NÃO coletamos
+#### 1.3. Dados que NÃO coletamos
 
 • Localização precisa
 • Dados sensíveis (raça, religião, saúde etc.)"
