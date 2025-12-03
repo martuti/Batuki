@@ -61,7 +61,7 @@ O Batuki não se responsabiliza por:
 
 Para dúvidas, suporte ou solicitações relacionadas aos seus dados pessoais:
 
-[E-mail de contato do app]
+[batuki.sac@gmail.com]
 
 
 
