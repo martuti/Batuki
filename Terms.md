@@ -14,17 +14,17 @@ A Plataforma não transmite músicas diretamente: ela funciona como espaço soci
 
 Ao utilizar a Plataforma, você concorda em:
 
-• Fornecer informações corretas ao criar sua conta.
-• Não realizar práticas abusivas, discriminatórias, ofensivas ou ilegais.
-• Não tentar manipular avaliações, rankings ou sistemas internos.
-• Não explorar vulnerabilidades, fazer engenharia reversa ou comprometer a segurança do app.
+• Fornecer informações corretas ao criar sua conta.                                                                                               
+• Não realizar práticas abusivas, discriminatórias, ofensivas ou ilegais.                                                                                
+• Não tentar manipular avaliações, rankings ou sistemas internos.                                                                                        
+• Não explorar vulnerabilidades, fazer engenharia reversa ou comprometer a segurança do app.                                                             
 
 ### 3️⃣ Conteúdos criados pelos usuários
 
 Conteúdo do Usuário” é qualquer conteúdo criado por você dentro do app, incluindo reviews pessoais (avaliações) e notas atribuídas a músicas, artistas e álbuns. Ao postar, você concorda que:"
 
-• Você é o responsável pelo conteúdo publicado.
-• Você não utilizará discurso de ódio, discriminação, violência ou assédio.
+• Você é o responsável pelo conteúdo publicado.                                                                                               
+• Você não utilizará discurso de ódio, discriminação, violência ou assédio.                                                                              
 
 Caso viole estes Termos, seu conteúdo pode ser removido e sua conta, suspensa.
 
@@ -52,10 +52,10 @@ Podemos suspender ou encerrar contas que violem estes Termos, práticas abusivas
 
 O Batuki não se responsabiliza por:
 
-• Interrupções temporárias do serviço;
-• Dados incorretos de bases externas;
-• Perda de informações decorrentes de mau uso do dispositivo;
-• Eventos fora do nosso controle.
+• Interrupções temporárias do serviço;                                                                                               
+• Dados incorretos de bases externas;                                                                                               
+• Perda de informações decorrentes de mau uso do dispositivo;                                                                                            
+• Eventos fora do nosso controle.                                                                                               
 
 ### 9️⃣ Contato
 
