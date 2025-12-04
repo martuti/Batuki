@@ -8,60 +8,60 @@ Esta Política explica como o Batuki coleta, utiliza e protege seus dados pessoa
 
 #### 1.1. Dados fornecidos por você
 
-• Nome ou apelido
-• Apple ID, via ICloud
-• Foto de perfil (opcional)
-• Reviews e notas
+• Nome ou apelido                                                                                               
+• Apple ID, via ICloud                                                                                               
+• Foto de perfil (opcional)                                                                                               
+• Reviews e notas                                                                                               
 
 #### 1.2. Dados coletados automaticamente
 
-• Sistema operacional
-• Versão do app
-• Dados técnicos para funcionamento e segurança
+• Sistema operacional                                                                                               
+• Versão do app                                                                                               
+• Dados técnicos para funcionamento e segurança                                                                                               
 
 #### 1.3. Dados que NÃO coletamos
 
-• Localização precisa
-• Dados sensíveis (raça, religião, saúde etc.)"
-• Dados financeiros
-• Conteúdos ou mensagens entre usuários (não existe chat)
+• Localização precisa                                                                                               
+• Dados sensíveis (raça, religião, saúde etc.)"                                                                                               
+• Dados financeiros                                                                                               
+• Conteúdos ou mensagens entre usuários (não existe chat)                                                                                               
 
 ### 2️⃣ Finalidade dos dados
 
 Usamos seus dados para:
 
-• Criar e manter sua conta no Batuki;
-• Registrar suas notas e reviews;
-• Operar as funções básicas do app;
-• Garantir segurança, estabilidade e prevenção de abusos;
-• Melhorar funcionalidades e experiência do usuário;
-• Enviar comunicados essenciais (não enviamos spam).
+• Criar e manter sua conta no Batuki;                                                                                               
+• Registrar suas notas e reviews;                                                                                               
+• Operar as funções básicas do app;                                                                                               
+• Garantir segurança, estabilidade e prevenção de abusos;                                                                                               
+• Melhorar funcionalidades e experiência do usuário;                                                                                               
+• Enviar comunicados essenciais (não enviamos spam).                                                                                               
 
 ### 3️⃣ Compartilhamento
 
 O Batuki pode compartilhar dados somente com:
 
-• Serviços de hospedagem e servidores;
-• Ferramentas de análise de erros e desempenho;
-• Autoridades legais, caso seja exigido por lei.
+• Serviços de hospedagem e servidores;                                                                                               
+• Ferramentas de análise de erros e desempenho;                                                                                               
+• Autoridades legais, caso seja exigido por lei.                                                                                               
 
 ### 4️⃣ Segurança
 
 Empregamos medidas como:
 
-• Criptografia de senhas;
-• Controle de acesso interno;
-• Monitoramento técnico;
-• Servidores seguros.
+• Criptografia de senhas;                                                                                               
+• Controle de acesso interno;                                                                                               
+• Monitoramento técnico;                                                                                               
+• Servidores seguros.                                                                                               
 
 ### 5️⃣ Seus direitos
 
 Você pode:
 
-• Acessar seus dados;
-• Solicitar correção;
-• Solicitar exclusão da sua conta e de todos os dados associados;
-• Pedir esclarecimentos sobre o tratamento de dados.
+• Acessar seus dados;                                                                                               
+• Solicitar correção;                                                                                               
+• Solicitar exclusão da sua conta e de todos os dados associados;                                                                                        
+• Pedir esclarecimentos sobre o tratamento de dados.                                                                                               
 
 ### 6️⃣ Retenção dos dados
 
@@ -71,15 +71,15 @@ Mantemos seus dados apenas enquanto sua conta estiver ativa. Ao solicitar exclus
 
 Utilizamos apenas tecnologias essenciais para:
 
-• Métricas internas;
-• Melhor desempenho;
-• Lembrar preferências básicas.
+• Métricas internas;                                                                                               
+• Melhor desempenho;                                                                                               
+• Lembrar preferências básicas.                                                                                               
 
-Não usamos cookies para rastreamento comercial.
+Não usamos cookies para rastreamento comercial.                                                                                               
 
 ### 8️⃣ Alterações desta Política
 
-Atualizações relevantes serão informadas no próprio app.
+Atualizações relevantes serão informadas no próprio app.                                                                                               
 
 ### 9️⃣ Contato
 
