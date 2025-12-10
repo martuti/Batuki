@@ -6,7 +6,7 @@
 
 Batuki é o lugar onde você amplia seu repertório, explora curadorias únicas e transforma suas opiniões em parte da sua experiência musical.
 
-### 2️⃣ Preciso de conexão com a internet para usar o Kairos?
+### 2️⃣ Preciso de conexão com a internet para usar o Batuki?
 
 Sim. Para usar o Batuki você precisa estar conectado em uma rede de internet.
 
