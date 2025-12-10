@@ -12,7 +12,7 @@ Sim. Para usar o Batuki você precisa estar conectado em uma rede de internet.
 
 ### 3️⃣ Como funciona a integração com a Apple Music e Spotify?
 
-Você pode acessar suas músicas no app, direto da aba explorar ou de outras avaliações, e clicar para ouvir na sua plataforma musical preferida, sem precisar fazer o processo manualmente manualmente. *(Requer uma conta Apple Music e Spotify)*
+Você pode acessar músicas no app, direto da aba explorar ou de outras avaliações, e clicar para ouvir na sua plataforma musical preferida, sem precisar fazer o processo manualmente. *(Requer uma conta Apple Music e Spotify)*
 
 ### 4️⃣ Meus dados são privados?
 
